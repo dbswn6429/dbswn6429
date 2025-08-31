@@ -1,5 +1,11 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&text=Yoonju's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
+<div align="center">
+  
+# 👋 Hi, I'm Yoonju  
+
+💻 Backend & Frontend Developer  
+🌱 Currently learning **Spring Boot, React, and Cloud**  
+🚀 Passionate about building scalable web applications  
+
 </div>
 
 <div style="text-align: center;"> 
