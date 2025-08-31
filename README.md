@@ -9,7 +9,7 @@
 </div>
 
 <div style="align: center;"> 
-<h4 style="color: #282d33; align: center; bottom:none;"> 🏫 Affiliation </h4> <br>
+<h4 style="color: #282d33; text-align: center; bottom:none;"> 🏫 Affiliation </h4> <br>
 <div align="center">
   <p><b>동서울대학교 컴퓨터소프트웨어학과</b> (2021.03 ~ 2025.02)</p>
   <p><b>중앙정보처리학원 자바 풀스택 과정 수료</b> (2024.12 ~ 2025.07)</p>
@@ -17,7 +17,7 @@
 </div>
 
 <div style="text-align: center;"> 
-<h4 style="color: #282d33; align: center; bottom:none;"> 📜 Certificates </h4> <br>
+<h4 style="color: #282d33; text-align: center; bottom:none;"> 📜 Certificates </h4> <br>
 <div align="center">
   <p>💡 정보처리기사 (2025.01 ~ in progress)</p>
   <p>💡 SQLD (SQL Developer) (2025)</p>
