@@ -17,7 +17,7 @@
 </div>
 
 <div style="text-align: center;"> 
-<h2 style="color: #282d33; text-align: center;"> 📜 Certificates </h2> <br>
+<h4 style="color: #282d33; align: center; bottom:none;"> 📜 Certificates </h4> <br>
 <div align="center">
   <p>💡 정보처리기사 (2025.01 ~ in progress)</p>
   <p>💡 SQLD (SQL Developer) (2025)</p>
