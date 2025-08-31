@@ -8,7 +8,7 @@
 
 </div>
 
-<div style="align: center;"> 
+<div align="center"> 
 <h4 style="color: #282d33; text-align: center; bottom:none;"> 🏫 Affiliation </h4> <br>
 <div align="center">
   <p><b>동서울대학교 컴퓨터소프트웨어학과</b> (2021.03 ~ 2025.02)</p>
@@ -16,7 +16,7 @@
 </div>
 </div>
 
-<div style="text-align: center;"> 
+<div align="center"> 
 <h4 style="color: #282d33; text-align: center; bottom:none;"> 📜 Certificates </h4> <br>
 <div align="center">
   <p>💡 정보처리기사 (2025.01 ~ in progress)</p>
@@ -24,8 +24,8 @@
 </div>
 </div>
 
-<div style="text-align: center;"> 
-<h2 style="color: #282d33; text-align: center;"> 💼 Projects </h2> <br>
+<div align="center"> 
+<h4 style="color: #282d33; text-align: center; bottom:none"> 💼 Projects </h4> <br>
 <div align="center">
   
   🚀 <b>실시간 경매 플랫폼 BIDCAST </b> (2025.06.02 ~ 2024.06.30) <br>
@@ -42,8 +42,8 @@
 </div>
 </div>
 
-<div style="text-align: center;">
-<h2 style="color: #282d33; text-align: center;"> 🛠️ Tech Stacks </h2> <br> 
+<div align="center">
+<h4 style="color: #282d33; text-align: center;"> 🛠️ Tech Stacks </h4> <br> 
 <div  align= "center"> 
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -64,8 +64,8 @@
 </div>
 </div>
 
-<div style="text-align: center;">
-<h2 style="color: #282d33; text-align: center;"> 🧑‍💻 Contact me </h2> <br> 
+<div align="center">
+<h4 style="color: #282d33; text-align: center;"> 🧑‍💻 Contact me </h4> <br> 
 <div align= "center"> 
     <a href=https://www.notion.so/223319fceee580aa85e3dd8e92a9aaa9?source=copy_link> 
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/223319fceee580aa85e3dd8e92a9aaa9?source=copy_link"> 
@@ -78,8 +78,8 @@
 </div> 
 </div>
 
-<div style="text-align: center;"> 
-<h2 style="color: #282d33; text-align: center;"> 🏅 Stats </h2> 
+<div align="center"> 
+<h4 style="color: #282d33; text-align: center;"> 🏅 Stats </h4> 
 <div align= "center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=dbswn6429&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbswn6429&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
