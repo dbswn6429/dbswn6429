@@ -4,6 +4,7 @@
 
 💻 Backend & Frontend Developer  
 🌱 Currently learning **JAVA,Spring Boot, React**
+
 🚀 Passionate about building scalable web applications  
 
 </div>
