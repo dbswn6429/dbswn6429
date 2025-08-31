@@ -29,14 +29,7 @@
 <div align="center">
   
   🚀 <b>실시간 경매 플랫폼 BIDCAST </b> (2025.06.02 ~ 2024.06.30) <br>
-  - WebRTC를 활용한 실시간 방송 + 채팅 + 경매 입찰/낙찰 기능 구현  
-  - Spring Boot, React, Postgres, Jenkins, AWS 기반 CI/CD 적용  
-
-  <br/>
-
   📱 <b>중고거래 플랫폼 REWRITE</b> (2025.04.07 ~ 2023.04.30) <br>
-  - 사용자 인증, 상품 등록/검색, 결제  
-  - Spring Boot + HTML + Oracle DB  
 
   <br/>
 </div>
