@@ -8,8 +8,8 @@
 
 </div>
 
-<div style="text-align: center;"> 
-<h2 style="color: #282d33; align: center;" bottom:none> 🏫 Affiliation </h2> <br>
+<div style="align: center;"> 
+<h2 style="color: #282d33; align: center; bottom:none;"> 🏫 Affiliation </h2> <br>
 <div align="center">
   <p><b>동서울대학교 컴퓨터소프트웨어학과</b> (2021.03 ~ 2025.02)</p>
   <p><b>중앙정보처리학원 자바 풀스택 과정 수료</b> (2024.12 ~ 2025.07)</p>
