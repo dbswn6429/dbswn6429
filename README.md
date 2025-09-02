@@ -12,7 +12,7 @@
 <div align="center"> 
 <h4 style="color: #282d33; text-align: center; bottom:none;"> 🏫 Affiliation </h4> <br>
 <div align="center">
-  <p><b>가천대학교 컴퓨터소프트웨어학과</b> (2021.03 ~ 2025.02)</p>
+  <p><b>가천대학교 컴퓨터공학과</b> (2021.03 ~ 2025.02)</p>
   <p><b>중앙정보처리학원 자바 풀스택 과정 수료</b> (2024.12 ~ 2025.07)</p>
 </div>
 </div>
